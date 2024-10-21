@@ -55,5 +55,3 @@ The client side app submits the code and language id to the server through the A
 https://imgur.com/5rGqGJG
 https://imgur.com/qkE4lLa
 https://imgur.com/rnJPrBQ -->
-
-https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://samartha5611.github.io/)
